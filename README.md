@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Shahriar Khan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer;Expert+Django+Developer;Full+Stack+Engineer;Machine+Learning+Enthusiast;Building+Scalable+REST+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer;Expert+Django+Developer;Full+Stack+Engineer;Backend+Developer;Building+Scalable+REST+APIs" alt="Typing SVG" />
 
-🚀 **Expert Django Developer** | **Full Stack Engineer** | Passionate about building scalable REST APIs and learning advanced technologies like **Machine Learning** & **Data Analysis**
+🚀 **Expert Django Developer** | **Full Stack Engineer** | Passionate about building scalable REST APIs and learning advanced technologies like **Machine Learning** & **Data Mining**
 
 <p>
   <a href="https://www.linkedin.com/in/shahriar-khan-822923222/" target="_blank">
@@ -26,11 +26,11 @@
 const shahriar = {
     pronouns: "He/Him",
     location: "Bangladesh 🇧🇩",
-    currentFocus: ["Machine Learning", "Data Analysis", "Full Stack Development", "Scalable REST APIs with Django"],
+    currentFocus: ["Machine Learning", "Backend Developer", "Full Stack Development", "Scalable REST APIs with Django"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    askMeAbout: ["React", "Node.js", "Python", "Mobile Development", "Django"],
+    askMeAbout: ["React", "Node.js", "Python", "Mobile App Development", "Django"],
     technologies: {
-        frontEnd: ["React", "Next.js", "React Native", "TailwindCSS", "SVG"],
+        frontEnd: ["React", "Next.js", "React Native", "TailwindCSS"],
         backEnd: ["Node.js", "Express", "FastAPI", "Django", "Celery"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
         tools: ["Git", "VS Code", "Figma", "Postman", "BeautifulSoup"]
@@ -57,7 +57,6 @@ const shahriar = {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/nativewind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=000000)
 
 ### 🔙 Backend
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -109,6 +108,7 @@ const shahriar = {
 
 **🔭 Currently Working On:**
 - Building scalable REST APIs with Django
+- World Wide Ticketing Service
 - Exploring Machine Learning algorithms and implementations
 - Developing cross-platform mobile apps with React Native
 
@@ -118,9 +118,9 @@ const shahriar = {
 - Clean UI/UX design with NativeWind
 - Cloud technologies and deployment strategies
 
-**💡 2024 Goals:**
-- Contribute to more open-source projects
-- Master Machine Learning fundamentals
+**💡 2025 Goals:**
+- Make a Full Stack Disaster Management Site
+- Make a worldwide ticket service
 - Build and deploy 5+ full-stack applications
 - Share knowledge through technical writing
 
@@ -149,10 +149,7 @@ const shahriar = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
-🐍 Contribution Snake
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahriarrrrr/Shahriarrrrr/main/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahriarrrrr/Shahriarrrrr/main/dist/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Shahriarrrrr/Shahriarrrrr/main/dist/github-snake.svg">
-  </picture>
+
+🐍 Contribution Snake
+![snake gif](https://github.com/Shahriarrrrr/Shahriarrrrr/blob/output/github-snake.svg)
