@@ -19,10 +19,9 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
-\`\`\`javascript
+```javascript
 const shahriar = {
     pronouns: "He/Him",
     location: "Bangladesh 🇧🇩",
@@ -36,8 +35,6 @@ const shahriar = {
         tools: ["Git", "VS Code", "Figma", "Postman"]
     }
 };
-\`\`\`
-
 ---
 
 ## 💻 Tech Stack
