@@ -149,8 +149,10 @@ const shahriar = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shahriarrrrr/Shahriarrrrr/output/github-snake.svg" alt="Snake animation" />
-</div>
+🐍 Contribution Snake
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahriarrrrr/Shahriarrrrr/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahriarrrrr/Shahriarrrrr/main/dist/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Shahriarrrrr/Shahriarrrrr/main/dist/github-snake.svg">
+  </picture>
