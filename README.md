@@ -149,3 +149,8 @@ const shahriar = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shahriarrrrr/Shahriarrrrr/output/github-snake.svg" alt="Snake animation" />
+</div>
+
